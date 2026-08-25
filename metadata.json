@@ -1,0 +1,6 @@
+{
+  "name": "Apple Translate",
+  "description": "An iOS-styled translation experience with instant text & voice translation, face-to-face conversation mode, visual camera translation, and Apple Intelligence grammar insights.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
